@@ -136,7 +136,8 @@ if selected=='Best Rated':
   col1,col2,col3,col4 = st.columns(4)
 
   with col1:
-    image = Image.open('Movie Recommendation System\\images\\img1.jpg')
+    image = Image.open('img1.jpg')
+    #image = Image.open('Movie Recommendation System\\images\\img1.jpg')
     st.image(image, caption='Shawshank Redemption')
 
   with col2:
