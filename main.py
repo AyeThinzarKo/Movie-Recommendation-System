@@ -136,53 +136,53 @@ if selected=='Best Rated':
   col1,col2,col3,col4 = st.columns(4)
 
   with col1:
-    image = Image.open('images\\img1.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img1.jpg')
     st.image(image, caption='Shawshank Redemption')
 
   with col2:
-    image = Image.open('images\\img2.jpeg')
+    image = Image.open('Movie Recommendation System\\images\\img2.jpeg')
     st.image(image, caption='Fight Club')
 
   with col3:
-    image = Image.open('images\\img3.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img3.jpg')
     st.image(image, caption='The Dark Knight')
 
   with col4:
-    image = Image.open('images\\img4.png')
+    image = Image.open('Movie Recommendation System\\images\\img4.png')
     st.image(image, caption='Pulp Fiction')
 
 
   with col1:
-    image = Image.open('images\\img5.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img5.jpg')
     st.image(image, caption='Inception')
 
   with col2:
-    image = Image.open('images\\img6.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img6.jpg')
     st.image(image, caption='The GodFather')
 
   with col3:
-    image = Image.open('images\\img7.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img7.jpg')
     st.image(image, caption='Interstellar')
 
   with col4:
-    image = Image.open('images\\img8.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img8.jpg')
     st.image(image, caption='Forest Gump')
 
 
   with col1:
-    image = Image.open('images\\img9.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img9.jpg')
     st.image(image, caption='The Load of the Rings: The Return of the King')
 
   with col2:
-    image = Image.open('images\\img10.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img10.jpg')
     st.image(image, caption='The Empire Strikes Back')
 
   with col3:
-    image = Image.open('images\\img11.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img11.jpg')
     st.image(image, caption='The Lord of the Rings: The Fellowship of the Ring')
 
   with col4:
-    image = Image.open('images\\img12.jpg')
+    image = Image.open('Movie Recommendation System\\images\\img12.jpg')
     st.image(image, caption='Star Wars')
   
   #-----------------------------------------------
@@ -199,53 +199,53 @@ if selected=='Trending':
   col1,col2,col3,col4 = st.columns(4)
 
   with col1:
-    image = Image.open('images2\\img1.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img1.jpg')
     st.image(image, caption='Minions')
 
   with col2:
-    image = Image.open('images2\\img2.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img2.jpg')
     st.image(image, caption='Interstellar')
 
   with col3:
-    image = Image.open('images2\\img3.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img3.jpg')
     st.image(image, caption='Deadpool')
 
   with col4:
-    image = Image.open('images2\\img4.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img4.jpg')
     st.image(image, caption='Guardians of the Galaxy')
 
 
   with col1:
-    image = Image.open('images2\\img5.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img5.jpg')
     st.image(image, caption='Mad Max: Fury Road')
 
   with col2:
-    image = Image.open('images2\\img6.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img6.jpg')
     st.image(image, caption='Jurassic World')
 
   with col3:
-    image = Image.open('images2\\img7.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img7.jpg')
     st.image(image, caption='Pirates of the Caribbean')
 
   with col4:
-    image = Image.open('images2\\img8.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img8.jpg')
     st.image(image, caption='Dawn of the Planet of Apes')
 
 
   with col1:
-    image = Image.open('images2\\img9.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img9.jpg')
     st.image(image, caption='The Hunger Games: Mockingjay - Part 1')
 
   with col2:
-    image = Image.open('images2\\img10.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img10.jpg')
     st.image(image, caption='Big Hero 6')
 
   with col3:
-    image = Image.open('images2\\img11.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img11.jpg')
     st.image(image, caption='Terminator Genisys')
 
   with col4:
-    image = Image.open('images2\\img12.jpg')
+    image = Image.open('Movie Recommendation System\\images2\\img12.jpg')
     st.image(image, caption='Captain America: Civil War')
   
   #-----------------------------------------------
