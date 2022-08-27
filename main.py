@@ -137,32 +137,31 @@ if selected=='Best Rated':
 
   with col1:
     image = Image.open('img1.jpg')
-    #image = Image.open('Movie Recommendation System\\images\\img1.jpg')
     st.image(image, caption='Shawshank Redemption')
 
   with col2:
-    image = Image.open('Movie Recommendation System\\images\\img2.jpeg')
+    image = Image.open('img2.jpeg')
     st.image(image, caption='Fight Club')
 
   with col3:
-    image = Image.open('Movie Recommendation System\\images\\img3.jpg')
+    image = Image.open('img3.jpg')
     st.image(image, caption='The Dark Knight')
 
   with col4:
-    image = Image.open('Movie Recommendation System\\images\\img4.png')
+    image = Image.open('img4.png')
     st.image(image, caption='Pulp Fiction')
 
 
   with col1:
-    image = Image.open('Movie Recommendation System\\images\\img5.jpg')
+    image = Image.open('img5.jpg')
     st.image(image, caption='Inception')
 
   with col2:
-    image = Image.open('Movie Recommendation System\\images\\img6.jpg')
+    image = Image.open('img6.jpg')
     st.image(image, caption='The GodFather')
 
   with col3:
-    image = Image.open('Movie Recommendation System\\images\\img7.jpg')
+    image = Image.open('img7.jpg')
     st.image(image, caption='Interstellar')
 
   with col4:
@@ -171,19 +170,19 @@ if selected=='Best Rated':
 
 
   with col1:
-    image = Image.open('Movie Recommendation System\\images\\img9.jpg')
+    image = Image.open('img9.jpg')
     st.image(image, caption='The Load of the Rings: The Return of the King')
 
   with col2:
-    image = Image.open('Movie Recommendation System\\images\\img10.jpg')
+    image = Image.open('img10.jpg')
     st.image(image, caption='The Empire Strikes Back')
 
   with col3:
-    image = Image.open('Movie Recommendation System\\images\\img11.jpg')
+    image = Image.open('img11.jpg')
     st.image(image, caption='The Lord of the Rings: The Fellowship of the Ring')
 
   with col4:
-    image = Image.open('Movie Recommendation System\\images\\img12.jpg')
+    image = Image.open('img12.jpg')
     st.image(image, caption='Star Wars')
   
   #-----------------------------------------------
