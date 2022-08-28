@@ -96,7 +96,7 @@ if selected=='Home':
         if i>5:
           break  
     else:
-      st.info('Sorry, this movie is not recommended for you')
+      st.info('More of this kind of movies are not available')
       
 
 #-----------------------------------------------
